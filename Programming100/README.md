@@ -1,4 +1,4 @@
-- # Python
+# Python
 - **Refer to Foundamental100 GitHub Repo**
 - Python virtual environment
   collapsed:: true
