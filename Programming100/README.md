@@ -9,17 +9,18 @@
 - print("""This string runs
 - multiple lines!""") -> using triple quote you can print multi-line
 - you need to indent in some situation (link function)
--
+
+
 # Best practies
 - If we are not running the script directly this script won't work
 - if for example we do import scanner.py in another script, the **name** variable would container "scanner"
 - if **name** == "**main**":
       main()  
--
+
 - Check the scanner.py for a lot of imformation about socket and threads. It also enlight a lot about printing output and endling error
--
+
 - Pseudocode -> simplified, high-level description of a program or algorithm
-- ![image.png](../assets/image_1774710391992_0.png)
+
 - ### Best Practice for Variable Naming:   **snake_case**
 	-
 	  ```
@@ -103,4 +104,3 @@
 - When the program hits the breakpoint, it will pause, and you can inspect what’s happening.
   
   **Why is this useful?**: IDE debugging tools give you a visual way to see what’s going on in your code without needing to use print statements or manually check variables.  
--
